@@ -1,0 +1,1 @@
+CREATE DATABASE t3_app_sample;
